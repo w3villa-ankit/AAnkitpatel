@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin Ankit Patel</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm sAnkit Patel</h1>
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
@@ -15,7 +15,7 @@ I'm a devops engineer.
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a> 
