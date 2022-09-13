@@ -8,7 +8,7 @@ I'm a devops engineer.
 
 - 📫 How to reach me **a.ankitpatel01@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and travelling.**
 
 - My website - techops.co.in
 
@@ -21,7 +21,7 @@ I'm a devops engineer.
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    alt="express" width="40" height="40"/> </a>
+    alt="express" width="30" height="300"/> </a>
 </p>
 
 
